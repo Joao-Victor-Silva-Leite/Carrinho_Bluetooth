@@ -1,5 +1,5 @@
-# Carrinho_Bluetooth
-Carrinho de controle remoto utilizando conexão bluetooth com o arduino
+# Carrinho_De_Controle_Remoto
+Utilização de um Arduino Uno para um acionamento coordenado de 2 motores C.C. Possibilitando a condução do modelo de "Carrinho"
 
 # Lista de materiais
  * 1 Carrinho Arduino 2WD em MDF;
