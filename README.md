@@ -1,36 +1,32 @@
 # Carrinho_De_Controle_Remoto
 Utilização de um Arduino Uno para um acionamento coordenado de 2 motores C.C. Possibilitando a condução do modelo de "Carrinho"
+Este Modelo, simula
 
 # Lista de materiais
- * 1 Carrinho Arduino 2WD em MDF;
 
- * 1 Driver Duplo Ponte H;
+* 1 Arduino UNO
 
- * 1 Suporta para Pilha AA – 4 Slot;
+* 1 Kit Chassi Acrílico de Carro com 2 motores C.C.
 
- * 1 Arduino UNO R3 + Cabo USB;
+* 1 Módulo Ponte H para Arduino - para 2 motores C.C. 12V
 
- * 1 Bluetooth HC-05;
+* 1 Módulo Joystick para Arduino
 
- * 1 Buzzer;
+* 1 Protoboard Pequena
 
- * 1 Conector de Bateria 9V para P4;
+* 2 Suportes para 4 Pilhas AA
 
- * Pilha AA 1,5V – Kit com 4 Unidades ;
+* 1 Conector para Bateria 9V para Arduino
 
- * Bateria 9V Alcalina;
+* 1 Interruptor
 
- * Barra de pinos 90º 14,5mm;
+* Fios e Conectores Dupont (Macho e Fêmea)
 
- * Parafuso Metálico M3x10mm;
+* 3 Pilhas 12V
 
- * Parafuso Metálico M3x6mm;
+* 3 Suportes para pilhas
 
- * Parafuso Plástico M3x5mm;
-
- * Espaçador Plástico M3x6mm;
-
- * Jumpers.
+* 1 Bateria 9V
  
 # Montando o Projeto.
 Para montar basta seguir a conexão correspondente ao projeto, considerando que cada mudança na montagem física resulta em alteração no código utilizado. A conexão do módulo bluetooth deve ser realizado conectando o pino TX em RX e o pino RX em TX e para realizar o processo de gravação com o Arduino, estes pinos devem estar desconectados do equipamento.
