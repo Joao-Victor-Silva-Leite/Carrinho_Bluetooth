@@ -1,6 +1,6 @@
 # Carrinho_De_Controle_Remoto
 Utilização de um Arduino Uno para um acionamento coordenado de 2 motores C.C. Possibilitando a condução do modelo de "Carrinho"
-Este Modelo, simula
+Este Modelo, simula operações simples de um carrinho de controle remoto(acelerar, freiar, fazer curvas e dar ré)
 
 # Lista de materiais
 
