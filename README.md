@@ -14,8 +14,6 @@ Este Modelo, simula operações simples de um carrinho de controle remoto(aceler
 
 * 1 Protoboard Pequena
 
-* 2 Suportes para 4 Pilhas AA
-
 * 1 Conector para Bateria 9V para Arduino
 
 * 1 Interruptor
@@ -29,6 +27,7 @@ Este Modelo, simula operações simples de um carrinho de controle remoto(aceler
 * 1 Bateria 9V
 
 # Diagrama.
+![diagrama1](https://user-images.githubusercontent.com/53185153/68629957-74ecd280-04c4-11ea-9428-079934a6a1a1.png)
  
 # Montando o Projeto.
 Montamos o chassi do carrinho 2wd e acoplamos os motores DC 6V ao mesmo soldando os contatos. 
