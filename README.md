@@ -27,9 +27,15 @@ Este Modelo, simula operações simples de um carrinho de controle remoto(aceler
 * 3 Suportes para pilhas
 
 * 1 Bateria 9V
+
+# Diagrama.
  
 # Montando o Projeto.
-Para montar basta seguir a conexão correspondente ao projeto, considerando que cada mudança na montagem física resulta em alteração no código utilizado. A conexão do módulo bluetooth deve ser realizado conectando o pino TX em RX e o pino RX em TX e para realizar o processo de gravação com o Arduino, estes pinos devem estar desconectados do equipamento.
+Montamos o chassi do carrinho 2wd e acoplamos os motores DC 6V ao mesmo soldando os contatos. 
+conectamos os motores à ponte H e conectamos a fonte de 12V nos bornes correspondentes da mesma atraves de um interruptor, sendo esta fonte uma fonte DC de 3 pilhas de 12V em paralelo. 
+acoplamos o arduino ao chassi do carrinho e realizamos as conexoes do joystick no arduino de acordo com diagrama do fritzling
+conectamos as 4 conexoes pwm do as da ponte H de acordo com o diagrama e aterramos o arduino e a ponte mutuamente. 
+alimentamos o arduino com uma fonte DC de 9V e em seguida 
 
 # Como usar.
 O uso do carrinho é bem simples. Todas os comandos que ele recebe vem do módulo joystick para arduino, bastando fazer simples movimentos intuitivos. Movendo para frente ele acelera, para trás ele realiza a ré, movimentando para os lados ele realiza curvas tanto para esquerda quanto para a direita. Por fim, para acionar o modo freio, basta precionar o joystick, repetir este mesmo movimento desativa o modo freio.
