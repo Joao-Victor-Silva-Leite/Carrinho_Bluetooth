@@ -40,3 +40,6 @@ Este trabalho tem como objetivo exemplificar o uso do arduino no lazer e na apre
 # Dificuldades do projeto
 A realização desse projeto, infelizmente teve seu tempo muito reduzido, por conta do curto prazo de entrega do carrinho, somado com a demora da entrega dos materias.
 Como consequência, muitas implementações foram deixadas de lado, como a implementação de sensores para a automatização do carrinho, o módulo de radiofrequência que possibilitaria o controle a distância.
+Vale pontuar que esse não é o primeiro projeto proposto. Por razões externas, essa atividade foi na verdade a terceira escolhida pelo grupo. Os outros dois projetos tiveram que ser deixados de lado, reduzindo ainda mais o tempo para deixar o trabalho completo.
+
+
