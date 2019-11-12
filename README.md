@@ -1,4 +1,4 @@
-# Carrinho_De_Controle_Remoto
+# Carrinho de Controle_Remoto
 Utilização de um Arduino Uno para um acionamento coordenado de 2 motores C.C. Possibilitando a condução do modelo de "Carrinho"
 Este Modelo, simula operações simples de um carrinho de controle remoto(acelerar, freiar, fazer curvas e dar ré)
 
@@ -38,6 +38,10 @@ alimentamos o arduino com uma fonte DC de 9V e em seguida
 
 # Como usar.
 O uso do carrinho é bem simples. Todas os comandos que ele recebe vem do módulo joystick para arduino, bastando fazer simples movimentos intuitivos. Movendo para frente ele acelera, para trás ele realiza a ré, movimentando para os lados ele realiza curvas tanto para esquerda quanto para a direita. Por fim, para acionar o modo freio, basta precionar o joystick, repetir este mesmo movimento desativa o modo freio.
+
+![carrinhojpeg1](https://user-images.githubusercontent.com/53185153/68630774-2c82e400-04c7-11ea-8ddd-3251625e964d.jpg)
+
+![carrinhojpeg2](https://user-images.githubusercontent.com/53185153/68630784-33115b80-04c7-11ea-9a05-f1d65d40d1c6.jpg)
 
 # Por que Montar o carrinho?
 Este trabalho tem como objetivo exemplificar o uso do arduino no lazer e na aprendizagem de crianças e adolescentes ao passo que promove ensina conceitos básicos de materias importantes para o desenvolvimento do jovem no âmbito escolar tais como conceitos fisicos, matemáticos, aplicação do uso de lógica de computação simples e desenvolvimento da coordenação motora através da montagem além da satisfação e lazer com o produto final do trabalho. O processo de automatização para o carrinho vem como medida de segurança nas operações, por exemplo, uso de sensores que ativam a frenagem do carrinho, evitando acidentes.
